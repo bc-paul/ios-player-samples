@@ -6,8 +6,11 @@
 //  License: https://accounts.brightcove.com/en/terms-and-conditions
 //
 
-#import <BCOVIMA.h>
-#import <Brightcove-Player-SDK/BCOVPlayerSDK.h>
+@import GoogleInteractiveMediaAds;
+
+@import BrightcovePlayerSDK;
+@import BrightcoveIMA;
+
 
 #import "ViewController.h"
 
